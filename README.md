@@ -1,4 +1,4 @@
-# Warehouse Management System with Python
+# Warehouse Inventory System with Python
 ## Purwadhika Job Connector Data Science Capstone Project Module 1
 ### By: Revalde Raditya Candra
 <hr>
