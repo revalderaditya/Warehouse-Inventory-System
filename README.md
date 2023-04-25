@@ -70,6 +70,6 @@ Below are the function that available in my python code:
   - In the example below, after the menu 4 was chosen the program will asked which keys that they want to release, after write ***indomiejkt*** as they keys that want to be release, it will continue asking how many pieces that want to be release.
     ![menu 4](Screenshot/ss10.jpg)
     
-  - It can be seen in these two screenshots that the number of **Indomie** item in **Jakarta** warehouse at first was 500 pieces after the menu 4 was doone the number of **Indomie** item in **Jakarta** warehouse decrease into 410 pieces
+  - It can be seen in these two screenshots that the number of **Indomie** item in **Jakarta** warehouse at first was 500 pieces after the menu 4 was done the number of **Indomie** item in **Jakarta** warehouse decrease into 410 pieces
      ![menu4](Screenshot/ss3.jpg)
      ![menu4](Screenshot/ss10(2).jpg)
