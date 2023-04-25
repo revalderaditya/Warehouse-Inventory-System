@@ -67,7 +67,7 @@ Below are the function that available in my python code:
    ![menu 3(1)](Screenshot/ss9(1).jpg)
 
 10. In menu 4 the user can release an item that they want and it will automatically count in the main inventory
-  - In the example below, after the menu 4 was chosen the program will asked which keys that they want to release, after write ***indomiejkt*** as they keys that want to be release, it will continue asking how many pieces that want to be release.
+  - In the example below, after the menu 4 was chosen the program will asked which keys that they want to release, after write ***indomiejkt*** as they keys that want to be release, it will continue asking how many pieces that want to be release.<br>
     ![menu 4](Screenshot/ss10.jpg)
     
   - It can be seen in these two screenshots that the number of **Indomie** item in **Jakarta** warehouse at first was 500 pieces after the menu 4 was done the number of **Indomie** item in **Jakarta** warehouse decrease into 410 pieces
