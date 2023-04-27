@@ -48,7 +48,7 @@ Below is the function that is available in my Python code:
   - Adding new inventory stock
   - Updating the existing stock
   
-    ![menu 2](Screenshot/ss6.jpg)
+    ![menu 2](Screenshot/ss6(1).jpg)
  
 8. If the menu that was selected is menu number 1, then it will make the program add another item to the inventory system by filling out the question that was asked, and after the command was done, the data will automatically be saved. However, it only can be done if the keys that were inputted are not the same as the keys that already existed before.
   - In the screenshot below it showed that the user want to add an **indomie** item at **Bandung Warehouse**, therefore the keys that were inputted ***indomiebdg***.<br>
@@ -66,13 +66,13 @@ Below is the function that is available in my Python code:
 
 10. Menu 3 is a command to delete an item based on their keys.
 
-    ![menu 3](Screenshot/ss9.jpg)
+    ![menu 3](Screenshot/ss9(3).jpg)
   - After the selected keys are submitted it will cause the keys to be gone or deleted. In this example the designated keys were **Indomie** items from **Jakarta warehouse**, therefore the written keys are ***indomiejkt***
    ![menu 3(1)](Screenshot/ss9(2).jpg)
 
 11. In menu 4 the user can release an item that they want and it will automatically count in the main inventory
   - In the example below, after menu 4 was chosen the program will ask which keys they want to release, after writing ***indomiejkt*** as the keys that want to be released, it will continue asking how many pieces they want to be released.<br>
-    ![menu 4](Screenshot/ss10.jpg)
+    ![menu 4](Screenshot/ss10(4).jpg)
     
   - It can be seen in these two screenshots that the number of **Indomie** items in the **Jakarta** warehouse at first was 500 pieces after menu 4 was done the number of **Indomie** items in **Jakarta** warehouse decreased to 410 pieces
      ![menu4](Screenshot/ss3(1).jpg)
@@ -86,5 +86,5 @@ Below is the function that is available in my Python code:
      
 <hr>
 And that's all that my Python program can be done, massive kudos to Kak Achmad that has been guided me through my Python learning process and this Capstone project.<br>
-This coding file and readme file are all presented by **Revalde Raditya Candra**.<br>
-Let's connect through ***LinkedIn*** at [Revalde Raditya Candra](https://www.linkedin.com/in/revalde/)
+This coding file and readme file are all presented by Revalde Raditya Candra.<br>
+Let's connect through LinkedIn at [Revalde Raditya Candra](https://www.linkedin.com/in/revalde/)
