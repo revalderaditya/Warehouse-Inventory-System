@@ -81,10 +81,10 @@ Below is the function that is available in my Python code:
 12. Menu 5 is a function that can make the user sort their lowest stock until the highest.
      ![menu 5](Screenshot/ss12.jpg)
      
-13. The last menu is to close the program.
+13. The last menu is to close the program.<br>
      ![menu 6](Screenshot/ss13.jpg)
      
-     
-And that's all that my Python program can be done, massive kudos to Kak Achmad that has been guided me through my Python learning process and this Capstone project.
-This coding file and readme file are all presented by Revalde Raditya Candra.
-Let's connect through LinkedIn at [Revalde Raditya Candra](https://www.linkedin.com/in/revalde/)
+<hr>
+And that's all that my Python program can be done, massive kudos to Kak Achmad that has been guided me through my Python learning process and this Capstone project.<br>
+This coding file and readme file are all presented by **Revalde Raditya Candra**.<br>
+Let's connect through ***LinkedIn*** at [Revalde Raditya Candra](https://www.linkedin.com/in/revalde/)
