@@ -82,7 +82,7 @@ Below is the function that is available in my Python code:
      ![menu 5](Screenshot/ss12.jpg)
      
 13. The last menu is to close the program.<br>
-     ![menu 6](Screenshot/ss13.jpg)
+     ![menu 6](Screenshot/ss13(1).jpg)
      
 <hr>
 And that's all that my Python program can be done, massive kudos to Kak Achmad that has been guided me through my Python learning process and this Capstone project.<br>
