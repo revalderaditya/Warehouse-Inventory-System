@@ -85,7 +85,7 @@ Below is the function that is available in my Python code:
      ![menu 6](Screenshot/ss13(1).jpg)
      
 <hr>
-And that's all that about my Capstone Project for Python Programming, thank you for sparing your time to read my Capstone project hope I can share something new in the future with you guys.<br>
+And that's all that for my Capstone Project for Python Programming, thank you for sparing your time to read my Capstone project.<br>
 Massive kudos to Kak Achmad that has been guided me through my Python learning process and this Capstone project.<br>
 This coding file and readme file are all presented by Revalde Raditya Candra.<br>
 Let's e-connect through LinkedIn at [Revalde Raditya Candra](https://www.linkedin.com/in/revalde/)
