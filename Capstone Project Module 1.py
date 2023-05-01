@@ -151,7 +151,7 @@ def barangkeluar():
         print('UNIQUE KEYS YANG DIINGINKAN TIDAK ADA HARAP MASUKAN UNIQUE KEYS YANG BENAR!')
 
 def sortstock():
-    sort_stock = sorted(inventory.items(), key=lambda x: x[4]['Quantity (pcs)'])
+    sort_stock = sorted(inventory.items(), key=lambda x: x[1]['Quantity (pcs)'])
     print ('Warehouse\t|Category\t| Rack Location\t| Product Name\t| Quantity (pcs)')
     print ('=======================================================================')
     for key, value in sort_stock:
