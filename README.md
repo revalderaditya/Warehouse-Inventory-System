@@ -35,7 +35,7 @@ Below is the function that is available in my Python code:
 4. If the number that was chosen was 2 then it will show only the stocks that are located in the specific area that was inputted.
   - In the example below the warehouse that was chosen to show is warehouse Bandung
 
-    ![menu 1 no 2](Screenshot/ss4(2).jpg)
+    ![menu 1 no 2](Screenshot/ss4(3).jpg)
 
 5. For the third option in the first menu it will show the stock according to their category (**FMCG/FRESH**).
   - In the example below the number that was chosen was number 1 therefore it will resulting show the **FMCG** items only
