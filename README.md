@@ -14,9 +14,10 @@ Below is the function that is available in my Python code:
   - Add items
   - Delete items
   - Take out items
+  - Restock items
   - Sort the lowest stock
   - Exit the program<br>
-  ![Starting menu](Screenshot/ss1(1).jpg)
+  ![Starting menu](Screenshot/ss1(3).jpg)
  
 2. In menu number 1 (Show the available stock) there will be other options that must be chosen:
   - Show all available stock
@@ -83,11 +84,18 @@ Below is the function that is available in my Python code:
   - It can be seen in these two screenshots that the number of **Indomie** items in the **Jakarta** warehouse at first was 500 pieces after menu 4 was done the number of **Indomie** items in **Jakarta** warehouse decreased to 410 pieces
      ![menu4](Screenshot/ss3(1).jpg)
      ![menu4](Screenshot/ss10(3).jpg)
+     
+13. On menu 5 the user can do a restock for the inventory by selecting the desired items keys and input the desired number of items quantity that want to be add into the available stock.
+  - In the example below, after menu 5 was chosen the program will ask which keys that the user want to increase the stock, after writing ***indomiejkt*** as the desired keys, it will continue asking how many item that want to be added.<br>
+     ![menu5](Screenshot/ss15.jpg)
+  - It can be seen in these two screenshots that the number of **Indomie** items in the **Jakarta** warehouse at first was 500 pieces after menu 5 was done the number of **Indomie** items in **Jakarta** warehouse increased to 510 pieces
+     ![menu5](Screenshot/ss3(1).jpg)
+     ![menu5](Screenshot/ss15(1).jpg)
 
-13. Menu 5 is a function that can make the user sort their lowest stock until the highest.
+14. Menu 6 is a function that can make the user sort their lowest stock until the highest.
      ![menu 5](Screenshot/ss12.jpg)
      
-14. The last menu is to close the program.<br>
+15. The last menu is to close the program.<br>
      ![menu 6](Screenshot/ss13(1).jpg)
      
 <hr>
